@@ -1,0 +1,124 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+img
+{
+	height: 100px;
+	width: 150px;
+}
+.header-color
+{
+	background-color:;
+}
+
+#form
+{
+	width: 500px;
+	height: 550px;
+	background-color: ;
+	margin-left: 450px;
+	margin-top: 15px;
+}
+h1
+{
+	text-align: center;
+}
+.facebook
+{
+	width: 350px;
+	height: 30px;
+	background-color: blue;
+	border-radius: 5px;
+	margin-top: 10px;
+	margin-left: 75px;
+	outline: none;
+}
+.facebook i
+{
+	color: white;
+	font-size: 20px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.text-align-facebook
+{
+	font-family: cursive;
+	padding-left: 30px;
+}
+
+.google
+{
+	width: 350px;
+	height: 38px;
+	background-color: white;
+	border-radius: 5px;
+	margin-top: -3px;
+	margin-left: 75px;
+	outline: none;
+}
+.google i
+{
+	color: gray;
+	font-size: 20px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.text-align-google
+{
+	font-family: cursive;
+	padding-left: 30px;
+}
+
+h4
+{
+	margin-left: 75px;
+	
+}
+
+#input-box
+{
+	margin-left: 75px;
+	height: 25px;
+	width: 350px;
+	margin-top: -25px;
+}
+.location
+{
+	margin-left: 75px;
+	color: darkgray;
+}
+.instruction1
+{
+	margin-left: 75px;
+	color: gray;
+	
+}
+
+button
+{
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.btn
+{
+	margin-left: 75px;
+	width: 350px;
+	height: 40px;
+	background-color: maroon;
+	color: white;
+	outline: none;
+}
+.instruction2
+{
+	margin-left: 75px;
+}
+.end
+{
+ margin-left: 150px;
+}
+a
+{
+	text-decoration: none;
+}

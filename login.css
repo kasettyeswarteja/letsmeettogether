@@ -1,0 +1,123 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+body
+{
+	background-color: ;
+}
+
+img
+{
+    height: 653px;
+	width: 880px;
+}
+
+#main-div
+{
+	height: 653px;
+	width: 480px;
+	background-color:whitesmoke;
+	border: 1px solid white;
+	border-radius: 8px;
+	
+}
+
+#sub-div1
+{
+	padding-left: 20px;
+	padding-top: 12px;
+}
+
+h2
+{
+	font-family: sans-serif;
+	font-size: 25px;
+}
+
+p
+{
+	font-family: cursive;
+	font-size: 20px;
+}
+
+#sub-div2
+{
+	padding-left: 10px;
+}
+
+
+span
+{
+		font-family: cursive;
+	    font-size: 20px;
+}
+
+#lock
+{
+	color: gold;
+}
+
+#input-box
+{
+	width: 340px;
+	height: 28px;
+	border: none;
+	border-bottom: 1px solid black;
+	outline: none;
+	background-color: beige;
+}
+
+.mark
+{
+		font-family: cursive;
+	font-size: 18px;
+}
+
+.login-button
+{
+	width: 70px;
+	height: 40px;
+	background-color: teal;
+	color: white;
+	font-family: cursive;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	outline: none;
+}
+
+a
+{
+	text-decoration: none;
+	font-family: cursive;
+	font-size: 18px;
+}
+
+#div-icon
+{
+	height: 30px;
+	width: 325px;
+	margin-left: 25px;
+	margin-top: 15px;
+	padding-left: 20px;
+	padding-top: 2px;
+	background-color: dodgerblue;
+	border-radius: 5px;
+	
+}
+
+#icon1
+{
+	font-size: 28px;
+	color: white;
+}
+
+#icon-link
+{
+	padding-left: 30px; 
+	font-family: cursive;
+	font-size: 18px;
+	color: aliceblue;
+}

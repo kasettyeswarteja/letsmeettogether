@@ -1,0 +1,39 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+form
+{
+    background-color: whitesmoke;
+    padding-left: 500px;
+    font-size: 15px;
+}
+.w
+{
+    float:right;
+    padding-top: 30px;
+    font-size: 20px;
+}
+.line
+{
+    width: 400px;
+}
+#button
+{
+    width: 400px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    background-color: red;
+}
+#m
+{
+    width: 400px;
+    height: 50px;
+}
+#v
+{
+    width: 20px;
+    height: 20px;    
+}
